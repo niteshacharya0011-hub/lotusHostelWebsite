@@ -90,7 +90,7 @@ const Footer = () => {
           </a>
           <a href="#"></a>
         </div>
-        <h1 className="w-[80%] text-center text-sm leading-10">
+        <h1 className="w-[80%] text-center text-sm">
           Copyright © 2025 LOTUS BOY'S HOSTEL. All rights reserved | Design by
           <a
             href="https://ww.facebook.com/nischalacharya01"
