@@ -96,7 +96,7 @@ const Footer = () => {
             href="https://ww.facebook.com/nischalacharya01"
             className="text-red-800 transition-all delay-100 duration-300 ease-in-out hover:text-red-600 font-semibold"
           >
-            NiTeSH AcHaRyA
+             NiTeSH AcHaRyA
           </a>
         </h1>
       </div>
