@@ -19,9 +19,9 @@ const Home = () => {
             <h2 className="text-4xl font-bold py-20">Our Hostel Life</h2>
             <p className="text-lg leading-relaxed">
               LOTUS BOYS HOSTEL is a new 3 stories hostel with 10,000 sq feet
-              containing 18 ( FOR SMOKER / JOINT CONSUMER and NON FOR SMOKER )
-              rooms constructed exclusively to offer excellent services for man.
-              We are located 100 meters from KOTASHOWR CHOWK.
+              containing 16 rooms ( students / non students ) 
+              constructed exclusively to offer excellent services for man. We
+              are located 100 meters from KOTASHOWR CHOWK.
             </p>
           </div>
 
